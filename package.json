@@ -2,7 +2,7 @@
   "name": "generator-vercel-shortener",
   "version": "0.0.0-semantically-released",
   "description": "Generator to create your own personal url shortener to deploy to Vercel.",
-  "homepage": "https://github.com/codfish/generator-vercel-shortener",
+  "homepage": "https://github.com/NubeEra-CyberSecurity/generator-vercel-shortener",
   "author": {
     "name": "Chris O'Donnell",
     "email": "dev@codfish.io",
